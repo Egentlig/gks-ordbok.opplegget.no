@@ -37,6 +37,31 @@
     {
         "id": 8,
         "word": "Indre råtekjeller",
-        "explanation": "Rubens fremtidige treningsrom i kjelleren"
+        "explanation": "Rubens fremtidige treningsrom i kjelleren, tidligere potetkjeller"
+    },
+    {
+        "id": 9,
+        "word": "Tobias",
+        "explanation": "Rubens lånesønn, kameraslave og vennekodeansvarlig"
+    },
+    {
+        "id": 10,
+        "word": "Knut",
+        "explanation": "Rubens STORE forbilde"
+    },
+    {
+        "id": 11,
+        "word": "MÅDS!",
+        "explanation": "Rubens personlige slaver"
+    },
+    {
+        "id": 12,
+        "word": "sorholm",
+        "explanation": "Vaktmester, driftsleder, generell hjelper i LL Stange"
+    },
+    {
+        "id": 13,
+        "word": "pegging",
+        "explanation": "Betyr akkurat det du tror det betyr"
     }
 ]
