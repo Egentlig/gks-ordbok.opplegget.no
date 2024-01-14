@@ -13,5 +13,20 @@
         "id": 3,
         "word": "Munna",
         "explanation": "Brukes om noe som er godt, som regel relatert til mat"
+    },
+    {
+        "id": 4,
+        "word": "Studia",
+        "explanation": "Dette betyr ikke noe, man bare sier det"
+    },
+    {
+        "id": 5,
+        "word": "BABE!",
+        "explanation": "Charlie"
+    },
+    {
+        "id": 6,
+        "word": "Charlie",
+        "explanation": "Navn som Linda er kjent for dedikert til hennes (nå avdøde) hund (RIP)"
     }
 ]
