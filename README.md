@@ -1,0 +1,2 @@
+# ordbok.opplegget.no
+Opplegg
