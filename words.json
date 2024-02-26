@@ -73,5 +73,15 @@
         "id": 15,
         "word": "Tåfiskake",
         "explanation": "Når du tråkker i en sjokoladekake med svette sokker og barbeint også spiser kake med fingrene etterpå"
+    },
+    {
+        "id": 16,
+        "word": "KAUTSJ",
+        "explanation": "COACH"
+    },
+    {
+        "id": 17,
+        "word": "PEJP",
+        "explanation": "PAPP"
     }
 ]
